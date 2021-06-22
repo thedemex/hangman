@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+#  ^^for windows, change to #!python3
 #
 #   Hangman game for Chinese sentences.
 #
